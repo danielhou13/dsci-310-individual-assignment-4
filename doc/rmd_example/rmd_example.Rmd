@@ -12,7 +12,7 @@ output:
 bibliography: references.bib  
 ---
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, message=FALSE}
 library(tidyverse)
 ```
 
